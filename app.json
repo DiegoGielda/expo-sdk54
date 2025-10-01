@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "expo-sdk54",
+    "name": "SDK 54",
     "slug": "expo-sdk54",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "exposdk54",
@@ -22,7 +22,8 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.anonymous.exposdk54"
     },
     "web": {
       "bundler": "metro",
